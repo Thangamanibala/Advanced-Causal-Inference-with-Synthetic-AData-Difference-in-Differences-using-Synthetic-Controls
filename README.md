@@ -1,0 +1,2 @@
+# Advanced-Causal-Inference-with-Synthetic-AData-Difference-in-Differences-using-Synthetic-Controls
+This project builds synthetic time-series data and applies the Synthetic Control Method to estimate a treatment effect. It includes optimization-based weight selection, RMSE/MAE diagnostics, ATT analysis, and a full sensitivity test, showing the model is stable and the causal impact is reliably detected.
