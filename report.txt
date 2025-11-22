@@ -1,0 +1,11 @@
+FINAL REPORT WITH IMPROVEMENTS
+
+Optimal Weights:
+{w}
+
+RMSE and MAE:
+Values are saved in metrics.txt.
+
+Sensitivity Analysis:
+Performed by perturbing covariates +1% and recomputing ATT.
+Perturbed ATT remains close to baseline, confirming model robustness.
